@@ -1,0 +1,14 @@
+services:
+  researchflow:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file: .env          # API keys and settings; never baked into the image
+    environment:
+      DATABASE_URL: sqlite:////data/researchflow.db
+    volumes:
+      - researchflow-data:/data
+    restart: unless-stopped
+
+volumes:
+  researchflow-data:

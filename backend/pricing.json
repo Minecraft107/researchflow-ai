@@ -1,0 +1,14 @@
+{
+  "_comment": "USD. Model prices are per 1M tokens; search prices are per request. These are defaults captured on 2026-11-03 - verify against the provider pricing pages and edit this file when prices change. No code change needed.",
+  "models": {
+    "claude-opus-5-5": {"input": 4.0, "output": 20.0, "cache_read": 0.2, "cache_write": 5.0},
+    "claude-sonnet-5-5": {"input": 2.0, "output": 10.0, "cache_read": 0.1, "cache_write": 2.5},
+    "claude-haiku-5-5": {"input": 0.1, "output": 0.5, "cache_read": 0.01, "cache_write": 0.125},
+    "claude-fable-5-2": {"input": 8.0, "output": 40.0, "cache_read": 0.2, "cache_write": 10.0},
+    "claude-opus-4-8": {"input": 5.0, "output": 25.0, "cache_read": 0.5, "cache_write": 6.25}
+  },
+  "search": {
+    "tavily": 0.008,
+    "brave": 0.005
+  }
+}

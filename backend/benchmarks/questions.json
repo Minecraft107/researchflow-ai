@@ -1,0 +1,22 @@
+[
+  {"id": "ai-1", "domain": "Artificial Intelligence", "question": "How reliable are large language models at factual question answering, and what methods reduce hallucination?"},
+  {"id": "ai-2", "domain": "Artificial Intelligence", "question": "What is the measured energy and water footprint of training and running large AI models?"},
+  {"id": "health-1", "domain": "Healthcare", "question": "What is the clinical evidence for AI-assisted medical imaging diagnosis compared with radiologists?"},
+  {"id": "health-2", "domain": "Healthcare", "question": "How effective are GLP-1 receptor agonists for weight loss, and what are the known risks?"},
+  {"id": "cyber-1", "domain": "Cybersecurity", "question": "How has ransomware targeting hospitals and healthcare providers evolved, and what defenses are effective?"},
+  {"id": "cyber-2", "domain": "Cybersecurity", "question": "What is the current state of post-quantum cryptography standardization and adoption?"},
+  {"id": "climate-1", "domain": "Climate Change", "question": "How effective are carbon pricing policies at reducing greenhouse gas emissions?"},
+  {"id": "climate-2", "domain": "Climate Change", "question": "What is the potential and what are the limitations of direct air capture for meeting climate targets?"},
+  {"id": "econ-1", "domain": "Economics", "question": "What does the evidence say about the effect of minimum wage increases on employment?"},
+  {"id": "econ-2", "domain": "Economics", "question": "What are the economic effects of remote work on productivity and wages?"},
+  {"id": "tech-1", "domain": "Technology", "question": "What is the current state of solid-state battery technology for electric vehicles?"},
+  {"id": "tech-2", "domain": "Technology", "question": "How safe are autonomous vehicles compared with human drivers according to available data?"},
+  {"id": "edu-1", "domain": "Education", "question": "What is the evidence on the effectiveness of high-dosage tutoring for learning recovery?"},
+  {"id": "edu-2", "domain": "Education", "question": "How does smartphone use in schools affect student learning and wellbeing, and what do school phone bans achieve?"},
+  {"id": "sci-1", "domain": "Science", "question": "What is the current status of nuclear fusion energy research and its remaining obstacles?"},
+  {"id": "sci-2", "domain": "Science", "question": "What are the clinical successes and safety concerns of CRISPR gene-editing therapies?"},
+  {"id": "biz-1", "domain": "Business", "question": "What does the evidence show about the outcomes of four-day work week trials for companies and employees?"},
+  {"id": "biz-2", "domain": "Business", "question": "How are companies adopting generative AI, and what productivity effects have been measured?"},
+  {"id": "news-1", "domain": "Current Events", "question": "What are the main provisions and the implementation timeline of the EU AI Act?"},
+  {"id": "news-2", "domain": "Current Events", "question": "What is the current state of global semiconductor supply chains and government chip subsidy programs?"}
+]
